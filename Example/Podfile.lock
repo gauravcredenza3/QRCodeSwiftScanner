@@ -2,15 +2,15 @@ PODS:
   - QRCodeSwiftScanner (0.1.0)
 
 DEPENDENCIES:
-  - QRCodeSwiftScanner (from `../`)
+  - QRCodeSwiftScanner (from `../../QRCodeSwiftScanner`)
 
 EXTERNAL SOURCES:
   QRCodeSwiftScanner:
-    :path: "../"
+    :path: "../../QRCodeSwiftScanner"
 
 SPEC CHECKSUMS:
-  QRCodeSwiftScanner: 9598f48530ab592de6fb2df2b60e21c165ef7828
+  QRCodeSwiftScanner: 790383bf8e35fa40fe6421b5660093d695644c11
 
-PODFILE CHECKSUM: 9c799f2c04599e11bd86b2380d76b081cf60d1ec
+PODFILE CHECKSUM: 1c3783b653b740d983ae8564b58c4c483bf753cb
 
 COCOAPODS: 1.11.3

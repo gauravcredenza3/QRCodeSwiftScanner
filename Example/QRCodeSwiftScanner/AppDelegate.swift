@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  QRCodeSwiftScanner
 //
-//  Created by canopusiOSs on 06/05/2023.
-//  Copyright (c) 2023 canopusiOSs. All rights reserved.
+//  Created by gauravcredenza3 on 06/05/2023.
+//  Copyright (c) 2023 gauravcredenza3. All rights reserved.
 //
 
 import UIKit
