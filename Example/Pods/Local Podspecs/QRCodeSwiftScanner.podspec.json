@@ -1,0 +1,22 @@
+{
+  "name": "QRCodeSwiftScanner",
+  "version": "0.1.0",
+  "summary": "A short description of QRCodeSwiftScanner.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/canopusiOSs/QRCodeSwiftScanner",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "canopusiOSs": "abhishek.chandani@canopusinfosystems.com"
+  },
+  "source": {
+    "git": "https://github.com/canopusiOSs/QRCodeSwiftScanner.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QRCodeSwiftScanner/Classes/**/*"
+}
