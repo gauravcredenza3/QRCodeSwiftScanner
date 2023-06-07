@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'QRCodeSwiftScanner'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Copy of QRCodeScanner.'
 
   s.homepage         = 'https://github.com/gauravcredenza3/QRCodeSwiftScanner'
